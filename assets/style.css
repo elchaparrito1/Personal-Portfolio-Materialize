@@ -10,7 +10,7 @@ h1 {
 
 #landing {
     height: 100vh;
-    background-image: url('background3.jpg');
+    background-image: url('Midway-Geyser.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -27,6 +27,7 @@ h1 {
 }
 
 #work {
+    /* margin-top: 15px; */
     background-color: rgb(61,61,61);
 }
 
@@ -50,3 +51,11 @@ h1 {
 .section-two {
     background-color: #101010;
 }
+
+.modal {
+    max-height: 90%;
+  }
+  
+.modal-form-row {
+    margin-bottom: 0px;
+  }
